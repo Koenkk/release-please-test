@@ -14,5 +14,6 @@ jobs:
     steps:
     - uses: ncipollo/release-action@v1
       with:
-        tag: "v1.5.0-1"
+        tag: "v1.6.0-1"
         body: "- Updated Zigbee2MQTT to version"
+        token: ${{secrets.GH_TOKEN}}
