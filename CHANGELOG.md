@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.4](https://github.com/Koenkk/release-please-test/compare/1.0.3...1.0.4) (2024-01-04)
+
+
+### Bug Fixes
+
+* add ci ([b3067f0](https://github.com/Koenkk/release-please-test/commit/b3067f03b6959e33d9150d95e6e0ad99df025b7e))
+* add ci ([fa63f9b](https://github.com/Koenkk/release-please-test/commit/fa63f9b6338b72f0b4e168e518f0ab21e639e677))
+* dummy ([78bb5dd](https://github.com/Koenkk/release-please-test/commit/78bb5dda80927f80254338cad7c7f41a64012800))
+* u ([49b68c8](https://github.com/Koenkk/release-please-test/commit/49b68c84398893a2bcc25cf349b226ead6b15952))
+
 ## [1.0.3](https://github.com/Koenkk/release-please-test/compare/1.0.2...1.0.3) (2024-01-04)
 
 
