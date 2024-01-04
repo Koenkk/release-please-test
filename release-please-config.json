@@ -1,7 +1,6 @@
 {
   "packages": {
     ".": {
-      "changelog-path": "CHANGELOGnieuwKOEN.md",
       "release-type": "node",
       "draft": true
     }
