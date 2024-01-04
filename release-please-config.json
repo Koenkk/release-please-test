@@ -1,10 +1,9 @@
 {
   "packages": {
     ".": {
-      "changelog-path": "CHANGELOGnieuw.md",
+      "changelog-path": "CHANGELOGnieuwKOEN.md",
       "release-type": "node",
-      "draft": true,
-      "include-v-in-tag": false
+      "draft": true
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
