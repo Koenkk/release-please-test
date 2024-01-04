@@ -29,6 +29,6 @@ jobs:
     - name: Determine arch
       id: determine_arch
       run: |
-        ARCH_LIST=$(jq -r -c '.arch' ./${{ fromJSON(env.ADDON_LIST)[0] }}/config.json)
-        echo "Found the following arches: $ARCH_LIST"
+        echo $ADDON_LIST
+        echo $DOCKER_ARGS
 
