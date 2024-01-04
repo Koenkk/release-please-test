@@ -20,7 +20,7 @@ jobs:
         id: release
         with:
           release-type: node
-          target-branch: main
+          default-branch: main
           token: ${{secrets.GH_TOKEN}}
-          config-file: release-please-config.json
-          manifest-file: .release-please-manifestBLAA.json
+          include-v-in-tag: false
+          changelog-path: BLA.md
