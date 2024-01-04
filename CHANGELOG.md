@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/Koenkk/release-please-test/compare/1.0.4...1.0.5) (2024-01-04)
+
+
+### Bug Fixes
+
+* create rel ([387a779](https://github.com/Koenkk/release-please-test/commit/387a7792f375c6a073e948869f75eef65de07d22))
+* new ([e52d5cd](https://github.com/Koenkk/release-please-test/commit/e52d5cd1ef26640799ba303813624f679389938b))
+
 ## [1.0.4](https://github.com/Koenkk/release-please-test/compare/1.0.3...1.0.4) (2024-01-04)
 
 
