@@ -19,7 +19,6 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         id: release
         with:
-          release-type: node
           default-branch: main
           token: ${{secrets.GH_TOKEN}}
           include-v-in-tag: false
