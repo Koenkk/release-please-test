@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/Koenkk/release-please-test/compare/1.0.2...1.0.3) (2024-01-04)
+
+
+### Bug Fixes
+
+* u ([2ba0838](https://github.com/Koenkk/release-please-test/commit/2ba0838dc5830081c402fd0ab157636570890c4c))
+* u ([fcb657c](https://github.com/Koenkk/release-please-test/commit/fcb657ce1a6832f024881214047f10ad43d99f5d))
+
 ## [1.0.2](https://github.com/Koenkk/release-please-test/compare/v1.0.1...1.0.2) (2024-01-04)
 
 
